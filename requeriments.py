@@ -1,0 +1,10 @@
+asgiref==3.5.2
+Django==4.0.6
+djangorestframework==3.13.1
+Pillow==9.2.0
+psycopg2-binary==2.9.3
+pybase62==0.5.0
+python-dotenv==0.20.0
+pytz==2022.1
+sqlparse==0.4.2
+uuid0==0.2.7
